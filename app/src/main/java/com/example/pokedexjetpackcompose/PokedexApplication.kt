@@ -12,6 +12,8 @@ class PokedexApplication :Application() {
 
         Timber.plant(Timber.DebugTree())
 
+
+
     }
 
 }
