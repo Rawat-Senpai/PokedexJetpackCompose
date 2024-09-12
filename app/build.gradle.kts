@@ -105,6 +105,7 @@ dependencies {
 
     implementation ("com.android.support:palette-v7:28.0.0")
 
+    implementation ("androidx.core:core:1.13.1")
 
 }
 
